@@ -1,6 +1,6 @@
 # flutter_transparent_app
 
-A new Flutter application.
+More info https://github.com/flutter/flutter/issues/28844#issuecomment-478939888
 
 ## Getting Started
 
